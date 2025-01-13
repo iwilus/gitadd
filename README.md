@@ -1,4 +1,4 @@
-# Мыз казали Грааль!!!
+# Мы заказали Грааль!!!
 
 ## Основную игру 2.0 
 **Осквернённый грааль** - 8000р.
@@ -6,7 +6,8 @@
 1. Карта.
 2. Карты.
 3. Фигурки.
-#### ![Lazypainter](https://static.tildacdn.com/tild3433-3236-4563-a466-663330323235/LazyPainter_no_metho.png) [Гайд по покраске Менгиров.](https://lazypainter.com/taintedgrail)
+#### ![Lazypainter](https://static.tildacdn.com/tild3433-3236-4563-a466-663330323235/LazyPainter_no_metho.png) 
+#### [Гайд по покраске Менгиров.](https://lazypainter.com/taintedgrail)
     
 
 ## Дополнение 
